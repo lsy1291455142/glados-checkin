@@ -8,7 +8,7 @@ sckey = os.environ["SCKEY"]
 # 填入glados账号对应cookie
 cookie = os.environ["COOKIE"]
 #'__cfduid=d3459ec306384ca67a65170f8e2a5bd561593049467; _ga=GA1.2.766373509.1593049472; _gid=GA1.2.1338236108.1593049472; koa:sess=eyJ1c2VySWQiOjQxODMwLCJfZXhwaXJlIjoxNjE4OTY5NTI4MzY4LCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0=; koa:sess.sig=6qG8SyMh_5KpSB6LBc9yRviaPvI'
-
+#'__cfduid=d7faa18f7c2a15d1626fd4bc85c1050581593482720; _ga=GA1.2.1703199089.1593482723; _gid=GA1.2.1957560125.1593482723; koa:sess=eyJ1c2VySWQiOjQyMzUzLCJfZXhwaXJlIjoxNjE5NDAyODg1NzMyLCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0=; koa:sess.sig=6Bb-IJUGqJd4A1JwAf3nFQOPFyQ'
 
 
 def start():
